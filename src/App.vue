@@ -4,7 +4,7 @@
       <Header />
     </header>
     <div id="nav">
-      <navbar />
+      <Navbar />
     </div>
     <main>
       <router-view/>
@@ -15,12 +15,12 @@
 
 <script>
   import Header from './components/Header.vue'
-  import navbar from './components/navbar.vue'
+  import Navbar from './components/Navbar.vue'
 
   export default{
     components:{
       Header,
-      navbar
+      Navbar
     }
   }
 </script>
