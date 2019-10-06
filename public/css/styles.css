@@ -1,3 +1,7 @@
 body{
-  text-align: center
+  margin: 0;
+  text-align: center;
+  background-color: #defcfc;
+  font-family: "YuGothicM" "Hiragino Kaku Gothic ProN","メイリオ", 'arial black';
+
 }

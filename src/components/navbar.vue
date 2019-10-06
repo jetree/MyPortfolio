@@ -15,6 +15,9 @@
 
 <style>
   button{
+    height: 30px;
+    width: 100px;
     margin: 10px;
+    border-radius: 10px;
   }
 </style>
