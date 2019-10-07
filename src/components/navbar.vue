@@ -19,8 +19,10 @@
   }
   button{
     height: 30px;
-    width: 80px;
+    width: 120px;
     margin: 10px;
     border-radius: 10px;
+    font-size: 20px;
+    background-color: #ffe6eb;
   }
 </style>
