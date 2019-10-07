@@ -1,6 +1,7 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
+    <img src="../../public/img/main2.jpg" alt="背景">
   </div>
 </template>
 
@@ -11,3 +12,12 @@ export default {
   }
 }
 </script>
+
+<style>
+  .home{
+    height: 600px;
+  }
+  img{
+    height: 600px;
+  }
+</style>
