@@ -15,7 +15,7 @@
 
 <style>
   .navbar{
-    background-color: #333;
+    background-color: #ffe6eb;
   }
   button{
     height: 30px;
@@ -23,6 +23,7 @@
     margin: 10px;
     border-radius: 10px;
     font-size: 20px;
-    background-color: #ffe6eb;
+    background-color: #333;
+    color: #fff;
   }
 </style>
