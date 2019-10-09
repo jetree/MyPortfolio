@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-    <img src="../../public/img/main2.jpg" alt="背景">
+    <div id="title">
+      Hello World
+    </div>
   </div>
 </template>
 
@@ -15,9 +16,20 @@ export default {
 
 <style>
   .home{
-    height: 600px;
+    margin: 0 auto;
+    max-width: 1200px;
+    background-image: url("../../public/img/main2.jpg");
+    background-size: cover;
+    height:700px;
   }
-  img{
-    height: 600px;
+
+  #title{
+    color: #fff;
+    font-size: 80px;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    top:50%;
+    transform: translateX(-50%)translateY(-50%);
   }
 </style>

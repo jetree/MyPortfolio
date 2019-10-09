@@ -1,9 +1,25 @@
 <template>
   <div class="navbar">
-    <button>home</button>
-    <button>about</button>
-    <button>portfolio</button>
-    <button>skill</button>
+    <button>
+      <RouterLink to="/">
+        home
+      </RouterLink>
+    </button>
+    <button>
+      <RouterLink to="/about">
+        about
+      </RouterLink>
+    </button>
+    <button>
+      <RouterLink to="/portfolio">
+        portfolio
+      </RouterLink>
+    </button>
+    <button>
+      <RouterLink to="/skill">
+        skill
+      </RouterLink>
+    </button>
   </div>
 </template>
 
@@ -20,10 +36,14 @@
   button{
     height: 30px;
     width: 120px;
-    margin: 10px;
+    margin: 10px ;
+    padding: 5px 15px;
     border-radius: 10px;
     font-size: 20px;
     background-color: #333;
     color: #fff;
+  }
+  a:visited{
+    color: #fff    
   }
 </style>

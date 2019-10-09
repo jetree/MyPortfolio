@@ -3,7 +3,7 @@
     <header>
       <Header />
     </header>
-    <div id="nav">
+    <div>
       <Navbar />
     </div>
     <main>
