@@ -11,7 +11,10 @@
         html・cssから勉強をはじめ約1カ月で初めてのサイトを立ち上げた。<br>
         その後Laravelの学習し、簡単なTodoリストを作成。
         現在はVue.jsを学習中でこのサイトを作成した。
-      </p>
+      </p>  
+      <p class="sentence">
+        またkintoneも合わせて学習中。JavaScriptを使ったカスタマイズにも挑戦中。
+      </p> 
     </div>
   </div>
 </template>
@@ -29,7 +32,8 @@
     width: 70%;
   }
   .sentence{
-    text-align:left
+    text-align:left;
+    padding-bottom: 20px;
   }
 </style>
 

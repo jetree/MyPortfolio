@@ -1,25 +1,25 @@
 <template>
   <div class="navbar">
-    <button>
-      <RouterLink to="/">
+    <RouterLink to="/">
+      <button>
         home
-      </RouterLink>
-    </button>
-    <button>
-      <RouterLink to="/about">
+      </button>
+    </RouterLink>
+    <RouterLink to="/about">
+      <button>
         about
-      </RouterLink>
-    </button>
-    <button>
-      <RouterLink to="/portfolio">
+      </button>
+    </RouterLink>
+    <RouterLink to="/portfolio">
+      <button>
         portfolio
-      </RouterLink>
-    </button>
-    <button>
-      <RouterLink to="/skill">
+      </button>
+    </RouterLink>
+    <RouterLink to="/skill">
+      <button>
         skill
-      </RouterLink>
-    </button>
+      </button>
+    </RouterLink>
   </div>
 </template>
 

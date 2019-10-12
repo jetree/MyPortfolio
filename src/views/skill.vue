@@ -19,6 +19,9 @@
      <li>
        <img src="img/php.png" alt="php" class="skill-item">
      </li>
+     <li>
+       <img src="img/kintone.png" alt="kintone" class="skill-item">
+     </li>
    </ul>
  </div>
 </template>
@@ -41,7 +44,6 @@
   .skill-item{
     width: 250px;
     height: 250px;
-    object-fit:inherit;
-    object-position: 0 0;
+    object-fit:contain;
   }
 </style>

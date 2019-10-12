@@ -7,7 +7,9 @@
       <Navbar />
     </div>
     <main>
-      <router-view/>
+      <transition name="fade" mode="out-in">
+        <router-view/>
+      </transition>
     </main>
     <Footer />
   </div>
@@ -33,4 +35,13 @@
     max-width: 1200px;
     margin: 0 auto;
   }
+
+  .fade-enter-active{
+    transition: opacity 0.7s;
+  }
+  
+  .fade-enter{
+    opacity: 0;
+  }
+
 </style>
