@@ -3,7 +3,7 @@
       <ul class="works">
           <li>
             <a href="http://pairlu.herokuapp.com/">
-              <img src="img/pairlu.png" alt="pairlu" class="works-item">
+              <img src="../assets/img/pairlu.png" alt="pairlu" class="works-item">
             </a>
             <div class="discription">
               Laravelで制作しました、２人で共有するTODOアプリです。
@@ -12,7 +12,7 @@
           </li>
           <li>
             <a href="https://jetree.github.io/myportfolio/quiz.html">
-              <img src="img/quiz.png" alt="クイズサイト" class="works-item">
+              <img src="../assets/img/quiz.png" alt="クイズサイト" class="works-item">
             </a>
             <div class="discription">
               素のJavaScriptを使って製作しました。
@@ -20,7 +20,7 @@
           </li>
           <li>
             <a href="https://jetree.github.io/myportfolio/portfolio.html">
-              <img src="img/jetreeのポートフォリオサイト.png" alt="jetreeのポートフォリオサイト" class="works-item">
+              <img src="../assets/img/jetreeのポートフォリオサイト.png" alt="jetreeのポートフォリオサイト" class="works-item">
             </a>
             <div class="discription">
               このサイトのほぼ初期状態です。少し修正しましたが、学習開始から約1ヶ月で製作しました。<br>
@@ -30,7 +30,7 @@
           </li>
           <li>
             <a href="https://cafechillin.com">
-              <img src="img/cafechillin.png" alt="カフェチリンのホームページ" class="works-item">
+              <img src="../assets/img/cafechillin.png" alt="カフェチリンのホームページ" class="works-item">
             </a>
             <div class="discription">
               現在は閉店してしまいましたが、

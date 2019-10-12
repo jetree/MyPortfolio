@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div id="about-left">
-      <img src="img/サラリーマン.jpeg" alt="写真" class="about-img">
+      <img src="../assets/img/サラリーマン.jpeg" alt="写真" class="about-img">
       <h3>Jetree/りーさん</h3>
     </div>
     <div id="about-right">

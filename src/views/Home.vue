@@ -18,7 +18,7 @@ export default {
   .home{
     margin: 0 auto;
     max-width: 1200px;
-    background-image: url("../../public/img/main2.jpg");
+    background-image: url("../assets//img/main2.jpg");
     background-size: cover;
     height:700px;
   }

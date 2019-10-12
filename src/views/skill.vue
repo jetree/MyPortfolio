@@ -2,25 +2,25 @@
  <div>
    <ul class="skills">
      <li>
-       <img src="img/laravel.svg" alt="laravel" class="skill-item">
+       <img src="../assets/img/laravel.svg" alt="laravel" class="skill-item">
      </li>
      <li>
-       <img src="img/vue.png" alt="Vue" class="skill-item">
+       <img src="../assets/img/Vue.png" alt="Vue" class="skill-item">
      </li>
      <li>
-       <img src="img/html.png" alt="html5" class="skill-item">
+       <img src="../assets/img/html.png" alt="html5" class="skill-item">
      </li>
      <li>
-       <img src="img/css.png" alt="css3" class="skill-item">
+       <img src="../assets/img/css.png" alt="css3" class="skill-item">
      </li>
      <li>
-       <img src="img/javascript.svg" alt="javascript" class="skill-item">
+       <img src="../assets/img/javascript.svg" alt="javascript" class="skill-item">
      </li>
      <li>
-       <img src="img/php.png" alt="php" class="skill-item">
+       <img src="../assets/img/php.png" alt="php" class="skill-item">
      </li>
      <li>
-       <img src="img/kintone.png" alt="kintone" class="skill-item">
+       <img src="../assets/img/kintone.png" alt="kintone" class="skill-item">
      </li>
    </ul>
  </div>
