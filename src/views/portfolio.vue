@@ -11,7 +11,7 @@
             </div>
           </li>
           <li>
-            <a href="https://jetree.github.io/myportfolio/quiz.html">
+            <a href="https://jetree.github.io/myportfolio-old/quiz.html">
               <img src="../assets/img/quiz.png" alt="クイズサイト" class="works-item">
             </a>
             <div class="discription">
@@ -19,7 +19,7 @@
             </div>
           </li>
           <li>
-            <a href="https://jetree.github.io/myportfolio/portfolio.html">
+            <a href="https://jetree.github.io/myportfolio-old/portfolio.html">
               <img src="../assets/img/jetreeのポートフォリオサイト.png" alt="jetreeのポートフォリオサイト" class="works-item">
             </a>
             <div class="discription">

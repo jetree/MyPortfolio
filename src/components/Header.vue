@@ -1,6 +1,8 @@
 <template>
   <div class="header">
-    <h1>Jetree's Portfolio</h1>
+    <a to="/">
+      <h1>Jetree's Portfolio</h1>
+    </a>
   </div>
 </template>
 
