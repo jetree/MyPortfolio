@@ -1,8 +1,8 @@
 <template>
   <div class="header">
-    <a to="/">
+    <RouterLink to="/">
       <h1>Jetree's Portfolio</h1>
-    </a>
+    </RouterLink>
   </div>
 </template>
 
